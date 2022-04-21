@@ -17,7 +17,7 @@ import gov.nasa.jpf.vm.VM;
 import gov.nasa.jpf.vm.VMListener;
 
 
-// @author Yonis Abokar 
+// @author Yonis Abokar , Lukas Rose
 
 public class checkStates extends ListenerAdapter implements SearchListener, VMListener {
 
