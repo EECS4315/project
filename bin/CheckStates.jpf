@@ -1,0 +1,5 @@
+target=example.Main
+classpath=/eecs/home/jdishy/eclipse-workspace/project/project/bin/
+native_classpath=/eecs/home/jdishy/eclipse-workspace/project/project/bin/
+listener=listener.checkStates
+cg.enumerate_random = true

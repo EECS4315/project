@@ -1,7 +1,7 @@
 target=example.Main
 classpath=/eecs/home/jdishy/eclipse-workspace/project/project/bin/
 native_classpath=/eecs/home/jdishy/eclipse-workspace/project/project/bin/
-listener=gov.nasa.jpf.listener.StateSpaceDot,listener.SearchEvents
+listener=gov.nasa.jpf.listener.StateSpaceDot,listener.SearchEvents,listener.checkStates
 cg.enumerate_random = true
 search.class=gov.nasa.jpf.search.heuristic.BFSHeuristic
 search.depth_limit=200
