@@ -5,6 +5,9 @@ import tictactoe.Board;
 import java.util.ArrayList;
 import java.util.Random;
 
+/*
+ * @author Benedict Miguel, Jamie Dishy, Yonis Abokar, Lukas Rose
+ */
 public class Main {
 
 	public static void main(String[] args) {
